@@ -1,9 +1,6 @@
 # Netflix-Data-Cleaning-and-Analysis-Project
 ![Netflix logo](https://github.com/user-attachments/assets/eb5cd558-9136-4e5a-9ebd-4b5c3fd5ea9d)
 
-# Tools Used
-sql server
-power bi
 
 # Dataset
 The dataset for this project can be obtained from Kaggle.com. It contains comprehensive information about Netflix titles, including details like title, type (movie or TV show), release year, country, duration, and more. The dataset is crucial for conducting in-depth analyses and creating informative visualizations.
