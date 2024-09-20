@@ -40,3 +40,12 @@ The core of this project lies in using power bi to create compelling visualizati
 
 4- genres by total titles
 
+# Getting Started
+
+To get started with this project, follow these steps:
+
+   1- Download the Netflix dataset .
+   2- install sql server.
+   3- Set up power bi Desktop on your computer.
+# Results and Findings
+  The project's results and findings will be presented in the power bi visualizations . Feel free to explore and analyze the data to gain valuable insights into Netflix's content and its trends.
