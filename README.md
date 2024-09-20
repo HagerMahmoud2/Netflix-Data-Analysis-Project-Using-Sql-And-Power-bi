@@ -8,7 +8,8 @@ power bi
 # Dataset
 The dataset for this project can be obtained from Kaggle.com. It contains comprehensive information about Netflix titles, including details like title, type (movie or TV show), release year, country, duration, and more. The dataset is crucial for conducting in-depth analyses and creating informative visualizations.
 # Project Components
-1. Data Exploration and Cleaning
+
+# 1. Data Exploration and Cleaning
 
 Before diving into data visualization, we'll perform data exploration and cleaning using sql. This step involves:
 
@@ -24,7 +25,8 @@ Before diving into data visualization, we'll perform data exploration and cleani
 
 
 
-2. Power bi Visualization
+# 2. Power bi Visualization
+   
 ![netflix _dashboard](https://github.com/user-attachments/assets/81ec0e58-ceb6-4223-a02e-a085407b4723)
 
 
