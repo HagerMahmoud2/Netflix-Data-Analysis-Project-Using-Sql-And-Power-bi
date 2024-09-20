@@ -13,9 +13,13 @@ The dataset for this project can be obtained from Kaggle.com. It contains compre
 Before diving into data visualization, we'll perform data exploration and cleaning using sql. This step involves:
 
 1- Handling foreign characters
+
 2- Removing duplicates
+
 3- Data type covertion
+
 4- Identify and populate null values
+
 5- New destination tables for director,country,castand listed_in
 
 
@@ -27,7 +31,10 @@ Before diving into data visualization, we'll perform data exploration and cleani
 The core of this project lies in using power bi to create compelling visualizations. We'll design interactive dashboards, charts, and graphs to showcase key findings. Possible areas of exploration include:
 
 1- Top 10 countries BY movies And TV shows
+
 2- Rating by Total titles
+
 3- total movies & TV shows by realed_year
+
 4- genres by total titles
 
